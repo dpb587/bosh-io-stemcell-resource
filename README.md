@@ -16,6 +16,7 @@ resources:
 ## Source Configuration
 
 * `name`: *Required.* The name of the stemcell.
+* `server`: Default `https://bosh.io`. The bosh-hub server to query.
 
 
 ## Behavior
